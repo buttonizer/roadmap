@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Share your feedback
+  - name: 💬 Share your feedback
     url: https://community.buttonizer.pro/t/feedback
     about: Share your feedback with the Buttonizer team.
+  - name: 🛟 Knowledge Base
+    url: https://community.buttonizer.pro/knowledgebase
+    about: Find information in our Knowledge Base
+  - name: ✨ Buttonizer Community & Support
+    url: https://community.buttonizer.pro/
+    about: Get support from the Buttonizer Team
